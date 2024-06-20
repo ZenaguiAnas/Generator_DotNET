@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\opstablesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|c:\\users\\hp\\downloads\\uigen-main-20240619t143539z-001\\uigen-main\\generateur d_interface\\opstablesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:opstablesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\databaseconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:databaseconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\opstablesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -15,15 +19,15 @@
       "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\databaseconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:databaseconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\addrowtotableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:addrowtotableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|c:\\users\\hp\\downloads\\uigen-main-20240619t143539z-001\\uigen-main\\generateur d_interface\\databaseconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\databaseconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:databaseconnectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|c:\\users\\hp\\downloads\\uigen-main-20240619t143539z-001\\uigen-main\\generateur d_interface\\databaseconnectionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\databaseconnectionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:databaseconnectionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
@@ -31,16 +35,12 @@
       "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:datamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|c:\\users\\hp\\downloads\\uigen-main-20240619t143539z-001\\uigen-main\\generateur d_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\formgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:formgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\addrowtotableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|solutionrelative:addrowtotableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{278F492D-3DA1-4485-9D43-AD35BE8EE7B7}|Generateur d_interface.csproj|C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\schemareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DataBaseConnectionForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\DataBaseConnectionForm.cs",
               "RelativeDocumentMoniker": "DataBaseConnectionForm.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OpsTablesForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\OpsTablesForm.cs",
               "RelativeDocumentMoniker": "OpsTablesForm.cs",
@@ -106,20 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OpsTablesForm.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\OpsTablesForm.cs",
-              "RelativeDocumentMoniker": "OpsTablesForm.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\OpsTablesForm.cs",
-              "RelativeToolTip": "OpsTablesForm.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAlwBcAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:49:06.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -132,19 +119,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AddRowToTableForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\AddRowToTableForm.cs",
+              "RelativeDocumentMoniker": "AddRowToTableForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\AddRowToTableForm.cs [Design]",
+              "RelativeToolTip": "AddRowToTableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:56:13.959Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DataBaseConnectionForm.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\DataBaseConnectionForm.cs",
               "RelativeDocumentMoniker": "DataBaseConnectionForm.cs",
               "ToolTip": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\DataBaseConnectionForm.cs",
               "RelativeToolTip": "DataBaseConnectionForm.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAtwBwAAAAMAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAD4vxcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T18:12:26.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "OpsTablesForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\OpsTablesForm.cs",
+              "RelativeDocumentMoniker": "OpsTablesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\OpsTablesForm.cs",
+              "RelativeToolTip": "OpsTablesForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:49:06.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DataBaseConnectionForm.resx",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\DataBaseConnectionForm.resx",
               "RelativeDocumentMoniker": "DataBaseConnectionForm.resx",
@@ -156,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DataMapper.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\DataMapper.cs",
               "RelativeDocumentMoniker": "DataMapper.cs",
@@ -164,12 +176,11 @@
               "RelativeToolTip": "DataMapper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:49:31.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T14:49:31.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -177,12 +188,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:49:07.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T14:49:07.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FormGenerator.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\FormGenerator.cs",
               "RelativeDocumentMoniker": "FormGenerator.cs",
@@ -191,17 +201,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T14:56:45.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddRowToTableForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\AddRowToTableForm.cs",
-              "RelativeDocumentMoniker": "AddRowToTableForm.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\AddRowToTableForm.cs [Design]",
-              "RelativeToolTip": "AddRowToTableForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:56:13.959Z"
             },
             {
               "$type": "Document",
@@ -273,8 +272,7 @@
               "ToolTip": "C:\\Users\\hp\\Downloads\\UIGen-main-20240619T143539Z-001\\UIGen-main\\Generateur d_interface\\OpsTablesForm.resx",
               "RelativeToolTip": "OpsTablesForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-06-19T14:49:07.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T14:49:07.037Z"
             },
             {
               "$type": "Document",
@@ -286,8 +284,7 @@
               "RelativeToolTip": "OpsTablesForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:49:06.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T14:49:06.914Z"
             }
           ]
         }
